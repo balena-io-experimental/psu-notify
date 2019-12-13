@@ -1,0 +1,19 @@
+{
+  "name": "psu-notify",
+  "version": "1.0.0",
+  "description": "Blink consistently when undervoltage!",
+  "main": "psu-notify/entry.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balena-io-playground/psu-notify.git"
+  },
+  "author": "Matthew McGinn <matthew@balena.io>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/balena-io-playground/psu-notify/issues"
+  },
+  "homepage": "https://github.com/balena-io-playground/psu-notify#readme"
+}

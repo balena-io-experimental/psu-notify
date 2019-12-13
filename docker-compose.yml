@@ -1,0 +1,6 @@
+version: '2'
+services:
+  psu-notify:
+    build: ./psu-notify
+    labels:
+      io.balena.features.supervisor-api: '1'
